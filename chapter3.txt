@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 When we say good-bye its sometimes forever.
+=======
+This will replace the original text in chapter3 file.
+>>>>>>> experiment
